@@ -1,0 +1,13 @@
+.app {
+    overflow-x: hidden;
+    font-size: 16px;
+    background: url('/img/got.jpeg') top center no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+.button-hide {
+    min-width: 150px;
+    margin: 0 auto 15px;
+    text-align: center;
+    padding: 5px 0;
+}
